@@ -83,7 +83,7 @@ MIT License - Free to use and modify.
 ---
 
 ## **📞 Support**  
-For any issues, open a GitHub **Issue** or contact me at [your.email@example.com]  
+For any issues, open a GitHub **Issue** or contact me at [malvinbrine555@gmail.com]  
 
 ---
 
