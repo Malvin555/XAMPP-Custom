@@ -38,7 +38,7 @@ mkdir /opt/lampp/htdocs/  # Change path for Windows/macOS
 ### **3️⃣ Clone or Download This Repository**  
 ```bash
 cd /opt/lampp/htdocs/
-git clone https://github.com/Malvin555/XAMPP-Custom.git .
+git clone https://github.com/Malvin555/XAMPP-Custom
 ```
 Or manually download the files and extract them into the `htdocs/` folder.  
 
