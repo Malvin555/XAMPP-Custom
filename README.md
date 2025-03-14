@@ -2,7 +2,7 @@
 
 # **XAMPP Custom Dashboard Guide**  
 
-A step-by-step guide to setting up a custom dashboard for XAMPP on Linux (Fedora), Windows, or macOS.  
+A step-by-step guide to setting up a custom dashboard for XAMPP on Linux, Windows, or macOS.  
 
 ## **📌 Features**  
 ✅ Customizable homepage for XAMPP  
