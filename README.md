@@ -1,3 +1,5 @@
+![Custom XAMPP Dashboard Preview](preview-1.png) ![Custom XAMPP Dashboard Preview](preview-2.png)
+
 ---
 
 # **XAMPP Custom Dashboard Guide**  
