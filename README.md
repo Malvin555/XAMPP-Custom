@@ -12,6 +12,13 @@ A step-by-step guide to setting up a custom dashboard for XAMPP on Linux, Window
 ✅ User-friendly and responsive design  
 
 ---
+## **📸 Preview**
+
+<p align="center">
+  <img src="preview-1.png" alt="HydroWash Preview" width="600" height="auto"/>
+</p>
+
+---
 
 ## **🛠️ Prerequisites**  
 Before starting, make sure you have the following:  
